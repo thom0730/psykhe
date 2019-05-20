@@ -1,0 +1,3 @@
+ofxBlur
+ofxGui
+ofxOsc
